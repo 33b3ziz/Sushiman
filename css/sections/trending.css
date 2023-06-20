@@ -11,6 +11,7 @@
   min-height: 640px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .trending__content {
